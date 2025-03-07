@@ -22,10 +22,11 @@ A command-line banking system that allows users to manage accounts with basic tr
 
 ## Usage
 
-- Start the system:
+### Start the system:
+
 python banking_system.py
 
-- menu options:
+### menu options:
 1. Create Account
    - Enter name (letters/spaces only)
    - Set initial balance (>=$0)
@@ -50,7 +51,7 @@ python banking_system.py
 
 ## Testing
 
-- Run unit tests to verify functionality:
+### Run unit tests to verify functionality:
 python -m unittest test_banking_system.py
 
 ### Test coverage:
