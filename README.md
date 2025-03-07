@@ -23,8 +23,9 @@ A command-line banking system that allows users to manage accounts with basic tr
 ## Usage
 
 ### Start the system:
-
+```bash
 python banking_system.py
+```
 
 ### menu options:
 1. Create Account
@@ -52,7 +53,9 @@ python banking_system.py
 ## Testing
 
 ### Run unit tests to verify functionality:
+```bash
 python -m unittest test_banking_system.py
+```
 
 ### Test coverage:
 - Account creation with valid/invalid inputs
